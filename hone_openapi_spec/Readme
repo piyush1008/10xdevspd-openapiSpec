@@ -1,0 +1,7 @@
+Things that we learn-
+
+1. openapi spec? why do we need them 
+2. how do you create an openapi spec file by hand?
+3. How to automatically generate it if yoru usign HONO as your http framework
+
+4. how to generate JS client for it , so you can in minimal implementation hit the respective service
